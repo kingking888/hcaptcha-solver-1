@@ -1,8 +1,6 @@
 # hcaptcha-solver
 ⚡Defeat hcaptcha challenges with the power of AI!
-
-## Reason for making
-* This is a contribution to the nocaptchaai project.
+* This is a contribution to the nocaptchaai project. Rewritten hykii's code and made it better and synchronous.
 
 ## Requirements:
 * Python 3.10  or higher
