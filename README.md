@@ -6,7 +6,7 @@
 * Nocaptchaai.com API and UID key. A free one can be obtained from their site also
 
 ## USAGE
-* Download Python[https://www.python.org]
+* Download [Python](https://www.python.org)
 * Execute `python setup.py`
 * Fill out information in `example.py`
 * Run `python example.py`
