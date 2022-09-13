@@ -1,7 +1,7 @@
 # hcaptcha-solver
 ⚡Defeat hcaptcha challenges with the power of AI!
 * This is a contribution to the nocaptchaai project.
-
+* If you are going to buy nocaptchaai, please tell them that you are from me, clipssender. 🙏
 ## Requirements:
 * Python 3.10  or higher
 * Nocaptchaai.com API and UID key. A free one can be obtained from their site also
